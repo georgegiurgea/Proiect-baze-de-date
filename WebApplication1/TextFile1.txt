@@ -1,0 +1,2 @@
+﻿ admin <asp:RequiredFieldValidator ErrorMessage="Obligatoriu" ForeColor="Red" ControlToValidate="txtfunctie"
+                        runat="server" />
